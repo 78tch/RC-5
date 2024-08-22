@@ -30,6 +30,7 @@
 ## 2. Tips
 1. 録音時、カントインする
 2. バッキングトラックを
+3. ループを１回したら停止する：1SHOT をON
   
 ## 3. 参考になるページ
 https://dreadrock.org/knowhow-boss-rc-5-loop-station-001/
