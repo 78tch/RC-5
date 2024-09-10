@@ -40,10 +40,16 @@
   
 ## 2. Tips
 1. 録音時、カントインする
-2. バッキングトラックを
-3. ループを１回したら停止する：1SHOT をON
+2. 録音時のみリズムを鳴らし、ループ再生時にはリズムを鳴らさない
+3. バッキングトラックを再生のみする（録音をしない）
+4. ループを１回したら停止する：1SHOT をON
   
-## 3. 参考になるページ
+## 3.設定の体系
+1. メモリー：LOOP、RHYTHM、NAME
+2. SETUP：GENERAL、CONTROL、MIDI、STORAGE、F.RESET
+3. 
+  
+## 4. 参考になるページ
 https://dreadrock.org/knowhow-boss-rc-5-loop-station-001/
 ### 3-1. シナリオ１
 練習用メトロノーム・プリセット BPM=100  
