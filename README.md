@@ -45,13 +45,19 @@
 4. ループを１回したら停止する：1SHOT をON
   
 ## 3.設定の体系
-1. メモリー：LOOP、RHYTHM、NAME
-2. SETUP：GENERAL、CONTROL、MIDI、STORAGE、F.RESET
-3. 
+1. TEMPO：BPM
+2. メモリー：LOOP、RHYTHM、NAME
+3. SETUP：GENERAL、CONTROL、MIDI、STORAGE、F.RESET
   
-## 4. 参考になるページ
+## 4.設定画面への入り方
+1. ［TEMPO］ボタン：
+2. ［ON/OFF］ボタン長押し：
+3. ［SETUP］ボタン：
+4. ［MEMORY］ボタン：
+  
+## 5. 参考になるページ
 https://dreadrock.org/knowhow-boss-rc-5-loop-station-001/
-### 3-1. シナリオ１
+### シナリオ１
 練習用メトロノーム・プリセット BPM=100  
 1-1. BPM=100の設定  
 (1)「TEMPO」ボタンを押す。  
@@ -86,7 +92,7 @@ https://dreadrock.org/knowhow-boss-rc-5-loop-station-001/
 (3) 液晶画面上段に「WRITE:01」、液晶画面下段に「Memory01」（＝1-4で設定する前のプリセット名）が表示される。「MEMORY/LOOP LEVEL」つまみを押す。  
 (4) 液晶画面上段に「EXECUTING…」が表示され、数秒したら最初の画面に戻る。  
   
-### 3-2. シナリオ２
+### シナリオ２
 パフォーマンス用プリセット。リズムなしだが最初のループ録音時にはガイド用のメトロノームが鳴るように設定する。  
 2-1. 1のプリセットをコピーする。  
 (1) 「SETUP」ボタンと「MEMORY」ボタンを両方押す。  
@@ -111,7 +117,7 @@ https://dreadrock.org/knowhow-boss-rc-5-loop-station-001/
 (2) 液晶画面上段に「UTILITY」、液晶画面下段に「WRITE」が表示される。「MEMORY/LOOP LEVEL」つまみを押す。  
 (3) 液晶画面上段に「WRITE:02」、液晶画面下段に「Metro 100」が表示される。「MEMORY/LOOP LEVEL」つまみを押すと、液晶画面上段に「EXECUTING…」が表示され、数秒したら最初の画面に戻る。  
   
-### 3-3. シナリオ３
+### シナリオ３
 パフォーマンス用プリセット。リズムあり。  
 3-1. 1のプリセットをコピーする。  
 (1) 「MEMORY/LOOP LEVEL」つまみを回して、液晶画面左側に「01」、右上段に「Metro」、右下段に「100」を表示させる。  
