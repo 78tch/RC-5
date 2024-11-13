@@ -52,10 +52,14 @@
 3. SETUP：GENERAL、CONTROL、MIDI、STORAGE、F.RESET
   
 ## 4.設定画面への入り方
-1. ［TEMPO］ボタン：
-2. ［ON/OFF］ボタン長押し：
-3. ［SETUP］ボタン：
-4. ［MEMORY］ボタン：
+1. ［RHYTHM TEMPO］ボタンを押す：
+2. ［RHYTHM ON/OFF］ボタンを押す：
+3. ［RHYTHM ON/OFF］ボタンを長押し：
+4. ［SETUP］ボタンを押す：
+5. ［MEMORY］ボタンを押す：
+6. ［SETUP］ボタンと［MEMORY］ボタンを同時押し：
+7. ［MEMORY/LOOP LEVEL］ノブを回す：
+8. ［MEMORY/LOOP LEVEL］ノブを押し込む：
   
 ## 5. 参考になるページ
 https://dreadrock.org/knowhow-boss-rc-5-loop-station-001/
