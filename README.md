@@ -51,6 +51,40 @@
 2. メモリー：LOOP、RHYTHM、NAME
 3. SETUP：GENERAL、CONTROL、MIDI、STORAGE、F.RESET
   
+LOOP の設定項目
+|No|設定項目名|説明|
+|--|--|--|
+|1|REVERSE||
+|2|1SHOT||
+|3|LEVEL||
+|4|REC ACTION||
+|5|DUB MODE||
+|6|AUTO REC||
+|7|START||
+|8|STOP||
+|9|FADE TIME||
+|10|MEASURE||
+
+RHYTHM の設定項目
+|No|設定項目名|説明|
+|--|--|--|
+|1|LEVEL||
+|2|REVERB||
+|3|PATTERN||
+|4|VARIATION||
+|5|VAR.CHANGE||
+|6|KIT||
+|7|BEAT||
+|8|START||
+|9|STOP||
+|10|REC COUNT||
+|11|PLAY COUNT||
+|12|FILL||
+|13|PART1 〜4||
+|14|TONE LOW||
+|15|TONE HIGH||
+
+
 ## 4.設定画面への入り方
 1. ［RHYTHM TEMPO］ボタンを押す：
 2. ［RHYTHM ON/OFF］ボタンを押す：
