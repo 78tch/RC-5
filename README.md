@@ -97,9 +97,9 @@ NAME の設定項目
 ## 4.設定画面への入り方
 1. ［RHYTHM TEMPO］ボタンを押す：TEMPO表示、タップ・テンポでTEMPOを設定する。
 2. ［RHYTHM ON/OFF］ボタンを押す：リズムのオン（点灯）／オフ（消灯）／待機（点滅）を切り替え。
-3. ［RHYTHM ON/OFF］ボタンを長押し：
-4. ［SETUP］ボタンを押す：
-5. ［MEMORY］ボタンを押す：
+3. ［RHYTHM ON/OFF］ボタンを長押し：RHYTHMの設定画面へ。
+4. ［SETUP］ボタンを押す：全体設定画面へ。
+5. ［MEMORY］ボタンを押す：LOOP、RHYTHM、NAME設定画面へ。
 6. ［SETUP］ボタンと［MEMORY］ボタンを同時押し：保存、削除する。
 7. ［MEMORY/LOOP LEVEL］ノブを回す：メモリーを選択する。
 8. ［MEMORY/LOOP LEVEL］ノブを押し込む：LOOP音量を設定する。
