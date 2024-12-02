@@ -51,6 +51,11 @@
 2. メモリー：LOOP、RHYTHM、NAME
 3. SETUP：GENERAL、CONTROL、MIDI、STORAGE、F.RESET
   
+TEMPO の設定項目
+|No|設定項目名|説明|
+|--|--|--|
+|1|TEMPO|RHYTHM[TEMPO]ボタンを押し、TEMPOを表示し、[MEMORY/LOOP LEVEL]つまみを回す、またはRHYTHM[TEMPO]ボタンでタップ・テンポする。RHYTHM[TEMPO]ボタンを２秒以上長押しすると、初期値に戻る。|
+  
 LOOP の設定項目
 |No|設定項目名|説明|
 |--|--|--|
